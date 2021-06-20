@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363545145421",
+    "project_id": "onthick-e5105",
+    "storage_bucket": "onthick-e5105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363545145421:android:ba32b0c328e92a82422c04",
+        "android_client_info": {
+          "package_name": "com.example.onthi_ck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363545145421-1opaoc90jbjceejb9ioauk4p4at5mqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoepExNCWI9Kb3X0cr5d8d_nkiYdB_EDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363545145421-1opaoc90jbjceejb9ioauk4p4at5mqtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

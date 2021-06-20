@@ -1,0 +1,2 @@
+rootProject.name = "OnThi_CK"
+include ':app'
